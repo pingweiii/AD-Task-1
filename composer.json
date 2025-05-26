@@ -1,0 +1,16 @@
+{
+    "name": "ping/ad-task-1",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Ping\\AdTask1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pingweiii",
+            "email": "pwchen31@gmail.com"
+        }
+    ],
+    "require": {}
+}
